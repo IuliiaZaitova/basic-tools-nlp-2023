@@ -57,16 +57,17 @@ navigation:
 instructors:
   - id: izaitova
     name: Iuliia Zaitova
-    email: izaitova@lsv.uni-saarland.de
+    email: izaitova [at] lsv.uni-saarland.de
     web: https://sfb1102.uni-saarland.de/team/iuliia-zaitova/
 
   - id: rkumar
     name: Rishu Kumar
-    email: riku00002@stud.uni-saarland.de
+    email: riku00002 [at] stud.uni-saarland.de
+    web: https://rish.uk
     
   - id: chyek
     name: Chris Hyek
-    email: chhy00001@stud.uni-saarland.de
+    email: chhy00001 [at] stud.uni-saarland.de
 
 
 
