@@ -14,45 +14,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 description: >- # this means to ignore newlines until "baseurl:"
-  Introduction to solving computational problems, including the fundamentals
-  of computer programming. Topics include imperative programming constructs
-  (variables, loops, conditionals, functions, recursion), basic
-  object-oriented constructs (classes, objects), and some fundamental
-  algorithms and data structures (dictionaries, arrays, linked lists).
-  Student learn these concepts through studying the Python programming
-  language.
+  This tutorial series is meant for LST/LCT Master's students interested in improving their technical skills.
 baseurl: "/basic-tools-nlp-2023" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 number:
 title: Basic Tools for NLP
-semester: SumSem 2023
+semester: Basic Tools for NLP
 
 navigation:
   - title: Overview
-    subfolderitems:
-      - page: Description
-        url: '#description'
-      - page: Learning Goals
-        url: '#goals'
-      - page: Resources
-        url: '#resources'
-  - page: In-Class Code
-    url: '#inclasscode'
-  - title: Coursework
-    subfolderitems:
-      - page: Homework and Quizzes
-        url: '#hwqz'
-      - page: Labs
-        url: '#labs'
-      - page: Projects
-        url: '#projects'
-      - page: Exams
-        url: '#exams'
-      - page: Scale
-        url: '#scale'
-  - page: Commitments
-    url: '#commitments'
+  #  subfolderitems:
+   #   - page: Description
+   #     url: '#description'
+
+
+
 
 instructors:
   - id: izaitova
@@ -71,30 +48,11 @@ instructors:
 
 
 
-resources:
-  - name: Python 3
-    image: assets/images/pythonlogo.png
-    url: http://python.org
-  - name: Azure Notebooks
-    image: assets/images/azure.png
-    url: https://notebooks.azure.com/
-  - name: Pycharm
-    image: assets/images/pycharmlogo.png
-    url: https://www.jetbrains.com/pycharm/
 
-extra-resources:
-  - name: "How to Think Like a Computer Scientist: Interactive Edition"
-    image: assets/images/runestone_logo.png
-    url: https://runestone.academy/runestone/books/published/thinkcspy/index.html
-  - name: Python Tutor
-    image: assets/images/python_tutor.png
-    url: http://pythontutor.com/
-  - name: CodingBat Python
-    image: assets/images/codingbat.jpg
-    url: https://codingbat.com/python
-  - name: CheckiO Python Practice
-    image: assets/images/checkio_logo_small.png
-    url: https://py.checkio.org/
+  #- name: "How to Think Like a Computer Scientist: Interactive Edition"
+ #   image: assets/images/runestone_logo.png
+  #  url: https://runestone.academy/runestone/books/published/thinkcspy/index.html
+
 
 # Build settings
 markdown: kramdown
