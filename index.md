@@ -42,3 +42,16 @@ layout: course-multi
 * **29.06.2023 (Week 11): Reference Management Tools and Conclusion**
 
 
+## <a name="contact">Contact us</a>
+**Tutor:** 
+
+Chris Hyek --- chhy00001 [at] stud.uni-saarland.de 
+
+**Instructors:** 
+
+Rishu Kumar --- riku00002 [at] stud.uni-saarland.de
+
+Iuliia Zaitova --- izaitova [at] lsv.uni-saarland.de
+
+
+
