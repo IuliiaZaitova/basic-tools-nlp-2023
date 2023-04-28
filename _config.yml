@@ -1,72 +1,40 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-description: >- # this means to ignore newlines until "baseurl:"
-  This tutorial series is meant for LST/LCT Master's students interested in improving their technical skills.
-baseurl: "/basic-tools-nlp-2023" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-number:
+---
 title: Basic Tools for NLP
+description: This tutorial series is meant for LST/LCT Master's students interested in improving their technical skills.
 semester: Basic Tools for NLP
-
-navigation:
-  - title: Overview
-  #  subfolderitems:
-   #   - page: Description
-   #     url: '#description'
-
-
-
-
 instructors:
   - id: izaitova
     name: Iuliia Zaitova
-    email: izaitova [at] lsv.uni-saarland.de
+    email: izaitova@lsv.uni-saarland.de
     web: https://sfb1102.uni-saarland.de/team/iuliia-zaitova/
-
   - id: rkumar
     name: Rishu Kumar
-    email: riku00002 [at] stud.uni-saarland.de
+    email: riku00002@stud.uni-saarland.de
     web: https://rish.uk
-    
   - id: chyek
     name: Chris Hyek
-    email: chhy00001 [at] stud.uni-saarland.de
+    email: chhy00001@stud.uni-saarland.de
+baseurl: "/basic-tools-nlp-2023"
+url: ""
+---
 
+# Welcome to Basic Tools for NLP!
 
+This tutorial series is designed for LST/LCT Master's students who want to enhance their technical skills in natural language processing.
 
+## Overview
 
-  #- name: "How to Think Like a Computer Scientist: Interactive Edition"
- #   image: assets/images/runestone_logo.png
-  #  url: https://runestone.academy/runestone/books/published/thinkcspy/index.html
+[//]: # (TODO: Add an overview section)
 
+## Instructors
 
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
+Meet the instructors for this tutorial series:
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+{% for instructor in page.instructors %}
+### {{ instructor.name }}
+
+- Email: {{ instructor.email }}
+- Website: [{{ instructor.web }}]({{ instructor.web }})
+{% endfor %}
+
+[//]: # (TODO: Add more content)
