@@ -21,7 +21,7 @@ layout: course-multi
 
 * **20.04.2023 (Week 1):** [**Introduction and Course Overview**](https://iuliiazaitova.github.io/basic-tools-nlp-2023/introduction)
 
-* **27.04.2023 (Week 2): *nix System**
+* **27.04.2023 (Week 2): [*nix System**](https://iuliiazaitova.github.io/basic-tools-nlp-2023/unix_systems)
 
 * **04.05.2023 (Week 3): Bash Commands**
 
