@@ -12,7 +12,7 @@ This course covers the basic technical tools and skills required mainly for LST 
 * **20.04.2023 (Week 1):** [**Introduction and Course Overview**](https://iuliiazaitova.github.io/basic-tools-nlp-2023/introduction)
 * **27.04.2023 (Week 2): [*nix Systems](https://iuliiazaitova.github.io/basic-tools-nlp-2023/unix_systems)** 
 * **04.05.2023 (Week 3):** Bash Commands
-* **11.05.2023 (Week 4):** Advanced Bash Tools
+* **11.05.2023 (Week 4): [Advanced Bash Tools](https://iuliiazaitova.github.io/basic-tools-nlp-2023/bash_tools)**
 * **18.05.2023 (Week 5):** Vim Text Editor
 * **25.05.2023 (Week 6):** Git for Version Control
 * **01.06.2023 (Week 7):** Python
