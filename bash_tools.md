@@ -6,4 +6,4 @@ Please download the following folder for the class :)
 
 [class_3](https://github.com/pyRis/basic-tools-for-NLP/blob/main/bash-tools/class_3.zip)
 
-have a look [here](https://github.com/awesome-lists/awesome-bash) if you want to get some more resources
+Have a look [here](https://github.com/awesome-lists/awesome-bash) and [here](https://github.com/alebcay/awesome-shell) if you want to get some more resources
