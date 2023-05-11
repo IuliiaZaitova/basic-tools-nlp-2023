@@ -6,7 +6,13 @@ Please download the following folder for the class :)
 
 [class_3](https://github.com/pyRis/basic-tools-for-NLP/blob/main/bash-tools/class_3.zip)
 
+<<<<<<< HEAD
 Have a look [here](https://github.com/awesome-lists/awesome-bash) and [here](https://github.com/alebcay/awesome-shell) if you want to get some more resources
 
 
 [LINK TO EXERCISE](https://github.com/pyRis/basic-tools-for-NLP/blob/main/bash-tools/Exercise_1.pdf)
+=======
+Have a look [here](https://github.com/k4m4/terminals-are-sexy) and [here](https://github.com/alebcay/awesome-shell) if you want to get some more resources
+
+
+>>>>>>> 7fe35b78999cabaea3a16e10249e60234c73754b
