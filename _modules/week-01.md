@@ -3,33 +3,33 @@ title: Basic Tools for NLP
 ---
 
 Apr 20
-: [Introduction and Course Overview](https://github.com/pyRis/basic-tools-for-NLP/blob/main/intro_and_logistics/slides.pdf)
+: [Introduction and Course Overview](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_introduction.pdf)
 
 Apr 27
-: [*nix Systems](https://github.com/pyRis/basic-tools-for-NLP/blob/main/linux/slides_week2.pdf)
+: [*nix Systems](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_1.pdf)
 
 May 4
-: [Bash Commands](https://github.com/pyRis/basic-tools-for-NLP/blob/main/bash/basic_tools_for_nlp-5.pdf)
+: [Bash Commands](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_2.pdf)
 
 May 11
-: [Advanced Bash Tools](#)
+: [Advanced Bash Tools](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_3.pdf)
 
 May 25
-: [Git for Version Control](#)
+: [Git for Version Control](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_4.pdf)
 
 
 June 1
-: [More Git](#)
+: [More Git](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_5.pdf)
 
 
 June 15
-: [Editors and VIM](#)
+: [Editors and VIM](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_6.pdf)
 
 June 22
-: [Python Tools](#)
+: [Python Tools](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_7.pdf)
 
 July 6
-: [Classes & Pair Programming](#)
+: [Classes & Pair Programming](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_8.pdf)
 
 July 20
 : [Cluster Computing](#)
