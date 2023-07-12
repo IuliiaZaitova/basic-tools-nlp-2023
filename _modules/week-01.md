@@ -13,7 +13,8 @@ May 4
 
 May 11
 : [Advanced Bash Tools](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_3.pdf)
-: [Assignment 1 (bash)](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/assignments/assignment_1.pdf)
+
+: **Assignment**{: .label .label-purple }[Bash](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/assignments/assignment_1.pdf)
 
 May 25
 : [Git for Version Control](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_4.pdf)
