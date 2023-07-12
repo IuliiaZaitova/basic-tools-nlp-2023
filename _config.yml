@@ -1,40 +1,70 @@
----
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 title: Basic Tools for NLP
-description: This tutorial series is meant for LST/LCT Master's students interested in improving their technical skills.
-semester: Basic Tools for NLP
-instructors:
-  - id: izaitova
-    name: Iuliia Zaitova
-    email: izaitova@lsv.uni-saarland.de
-    web: https://sfb1102.uni-saarland.de/team/iuliia-zaitova/
-  - id: rkumar
-    name: Rishu Kumar
-    email: riku00002@stud.uni-saarland.de
-    web: https://rish.uk
-  - id: chyek
-    name: Chris Hyek
-    email: chhy00001@stud.uni-saarland.de
-baseurl: "/basic-tools-nlp-2023"
-url: ""
----
+tagline: SumSem 2023
+description: This semester we are doing a dry-run of this course, unfortunately you would NOT be able to get academic credits for it
+author: Iuliia Zaitova
+baseurl: '/basic-tools-nlp-2023' # the subpath of your site, e.g. /blog
+url: 'https://iuliiazaitova.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
-# Welcome to Basic Tools for NLP!
+# Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.5.4
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+aux_links:
+  Iuliia Zaitova:
+    - 'https://iuliiazaitova.github.io/'
+  Class on GitHub:
+    - 'github.com:IuliiaZaitova/basic-tools-nlp-2023'
+footer_content:
 
-This tutorial series is designed for LST/LCT Master's students who want to enhance their technical skills in natural language processing.
+# Collections for website data
+collections:
+  staffers:
+  modules:
+  schedules:
+  announcements:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      height: 300
+      subpath: '/assets/images/'
+      width: 300
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
 
-## Overview
-
-[//]: # (TODO: Add an overview section)
-
-## Instructors
-
-Meet the instructors for this tutorial series:
-
-{% for instructor in page.instructors %}
-### {{ instructor.name }}
-
-- Email: {{ instructor.email }}
-- Website: [{{ instructor.web }}]({{ instructor.web }})
-{% endfor %}
-
-[//]: # (TODO: Add more content)
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
