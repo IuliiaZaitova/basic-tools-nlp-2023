@@ -36,7 +36,7 @@ July 6
 
 July 20
 : [Cluster Computing](#) 
-: **Coli Server Files**{: .label .label-purple }[Advanced Python for NLP](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/assignments/assignment_4.pdf)
+: **Coli Server Files**{: .label .label-purple }[Advanced Python for NLP](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/coli_server.zip)
 
 
 
