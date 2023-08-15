@@ -35,7 +35,7 @@ July 6
 : **Assignment**{: .label .label-purple }[Advanced Python for NLP](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/assignments/assignment_4.pdf)
 
 July 20
-: [Cluster Computing](#) (https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_9.pdf)
+: [Cluster Computing](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_9.pdf)
 : **Class Material**{: .label .label-purple }[Coli Server Files](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/coli_server.zip)
 
 
