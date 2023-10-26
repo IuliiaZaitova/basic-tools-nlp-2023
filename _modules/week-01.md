@@ -2,42 +2,13 @@
 title: Basic Tools for NLP
 ---
 
-Apr 20
-: [Introduction and Course Overview](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_introduction.pdf)
-
-Apr 27
-: [*nix Systems](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_1.pdf)
-
-May 4
-: [Bash Commands](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_2.pdf)
-
-May 11
-: [Advanced Bash Tools](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_3.pdf)
-
-: **Assignment**{: .label .label-purple }[Bash](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/assignments/assignment_1.pdf)
-
-May 25
-: [Git for Version Control](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_4.pdf)
-
-June 1
-: [More Git](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_5.pdf)
-: **Assignment**{: .label .label-purple }[Git for NLP](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/assignments/assignment_2.pdf)
-
-June 15
-: [Editors and VIM](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_6.pdf)
-
-June 22
-: [Python Tools](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_7.pdf)
-: **Assignment**{: .label .label-purple }[Python for NLP](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/assignments/assignment_3.pdf)
-
-July 6
-: [Classes & Pair Programming](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_8.pdf)
-: **Assignment**{: .label .label-purple }[Advanced Python for NLP](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/assignments/assignment_4.pdf)
-
-July 20
-: [Cluster Computing](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/slides_class_9.pdf)
-: **Class Material**{: .label .label-purple }[Coli Server Files](https://github.com/IuliiaZaitova/basic-tools-nlp-2023/blob/main/lectures/coli_server.zip)
+Please join [the course on Microsoft Teams](https://teams.microsoft.com/l/team/19%3aw6oYs2R1p0qmc_9m2vA3czFFW8MVSNl-Sn9AlWr8meI1%40thread.tacv2/conversations?groupId=8eaf1e42-6bed-400b-95a4-d54b25688dca&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f)!
 
 
+Slides would be available just before the lectures, so that you can download them during the class :)
+
+For our upcoming classes, you will need a *nix-based system (Linux or Mac) and Git. We kindly ask that you try to install these before the class on November 6th. If you would like to install Linux, we would highly recommend the Ubuntu distribution. Refer to [this guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview) for Ubuntu installation (please note that you will need a flash drive with a capacity of 12GB or more). If, for any reason, you wish to continue using Microsoft Windows, you can find instructions on how to install Windows Subsystem for Linux (WSL) [here](https://learn.microsoft.com/en-us/windows/wsl/install). Git is typically pre-installed on most Mac and Linux machines. 
+
+Should you encounter any issues while installing Linux, WSL, or Git, please don't worry—during the last 30 minutes of the class on October 30th, we will be available to assist you with troubleshooting your installations. Hope to see you on Monday!
 
 
