@@ -2,7 +2,7 @@
 title: Basic Tools for NLP
 ---
 
-Please join [the course on Microsoft Teams](https://teams.microsoft.com/l/team/19%3aw6oYs2R1p0qmc_9m2vA3czFFW8MVSNl-Sn9AlWr8meI1%40thread.tacv2/conversations?groupId=8eaf1e42-6bed-400b-95a4-d54b25688dca&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f)!
+Please join [the course on Microsoft Teams](https://teams.microsoft.com/l/team/19%3aw6oYs2R1p0qmc_9m2vA3czFFW8MVSNl-Sn9AlWr8meI1%40thread.tacv2/conversations?groupId=8eaf1e42-6bed-400b-95a4-d54b25688dca&tenantId=67610027-1ac3-49b6-8641-ccd83ce1b01f) and fill out the [form](https://forms.office.com/e/hQ7M6UDKyp)!
 
 
 Slides would be available just before the lectures, so that you can download them during the class :)
